@@ -1,0 +1,6 @@
+{
+  "name": "AbhyasArena - Subscription Checkout",
+  "description": "Interactive subscription checkout with UPI QR payment, dynamic coupons, and instant WhatsApp verification for Classes 4–7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
